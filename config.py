@@ -1,6 +1,6 @@
 import os
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "YOUR_BOT_TOKEN")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "1514032879:7tIQgFf2OwNGzk2qQOoLiLWvdrevucT2pzQ")
 API_URL = f"https://tapi.bale.ai/bot{BOT_TOKEN}"
 CHANNEL_ID = os.environ.get("CHANNEL_ID", "@footballtimes_official")
 CHANNEL_LINK = "https://ble.ir/footballtimes_official"
