@@ -1,0 +1,108 @@
+{
+    "users": [
+        890352247,
+        1050936429,
+        324157864,
+        1903164041,
+        994865959,
+        586801194,
+        618141093,
+        191046191
+    ],
+    "user_info": {
+        "890352247": {
+            "user_id": 890352247,
+            "first_seen": "2026-05-19 01:51:55.759668",
+            "info": {
+                "username": "erfan2525e",
+                "first_name": "erfan4524",
+                "last_name": "",
+                "chat_id": 890352247,
+                "started_bot": true
+            },
+            "last_updated": "2026-05-21 13:43:36.300392"
+        },
+        "1050936429": {
+            "user_id": 1050936429,
+            "first_seen": "2026-05-19 02:00:44.763684",
+            "info": {
+                "username": "mahan_10_20",
+                "first_name": "MAHAN",
+                "last_name": "",
+                "chat_id": 1050936429,
+                "started_bot": true
+            },
+            "last_updated": "2026-05-21 15:29:24.432827"
+        },
+        "324157864": {
+            "user_id": 324157864,
+            "first_seen": "2026-05-19 02:00:48.483726",
+            "info": {
+                "username": "mani_11h",
+                "first_name": "مانی حسینی",
+                "last_name": "",
+                "chat_id": 324157864,
+                "started_bot": true
+            },
+            "last_updated": "2026-05-21 15:28:26.528706"
+        },
+        "1903164041": {
+            "user_id": 1903164041,
+            "first_seen": "2026-05-19 12:14:31.355727",
+            "info": {
+                "username": "",
+                "first_name": "Amirhosein",
+                "last_name": "",
+                "chat_id": 1903164041
+            },
+            "last_updated": "2026-05-19 14:24:17.641653"
+        },
+        "994865959": {
+            "user_id": 994865959,
+            "first_seen": "2026-05-19 12:14:33.821465",
+            "info": {
+                "username": "foxfire",
+                "first_name": "F.O.P",
+                "last_name": "",
+                "chat_id": 994865959,
+                "started_bot": true
+            },
+            "last_updated": "2026-05-21 12:29:50.365037"
+        },
+        "586801194": {
+            "user_id": 586801194,
+            "first_seen": "2026-05-21 12:29:44.059694",
+            "info": {
+                "username": "pv_aboliii",
+                "first_name": "ズﾑｲﾑ刀ﾑ 3:14",
+                "last_name": "",
+                "chat_id": 586801194,
+                "started_bot": true
+            },
+            "last_updated": "2026-05-21 12:29:44.066525"
+        },
+        "618141093": {
+            "user_id": 618141093,
+            "first_seen": "2026-05-21 12:29:50.861299",
+            "info": {
+                "username": "mrdangers",
+                "first_name": "𝕄",
+                "last_name": "",
+                "chat_id": 618141093
+            },
+            "last_updated": "2026-05-21 14:45:11.967686"
+        },
+        "191046191": {
+            "user_id": 191046191,
+            "first_seen": "2026-05-21 15:27:38.747742",
+            "info": {
+                "username": "amir_pers",
+                "first_name": "amir",
+                "last_name": "",
+                "chat_id": 191046191,
+                "started_bot": true
+            },
+            "last_updated": "2026-05-21 15:28:44.745448"
+        }
+    }
+}
